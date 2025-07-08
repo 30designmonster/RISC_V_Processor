@@ -1,5 +1,6 @@
-// File: processor_complete.sv
-// Complete RISC-V processor with all modules in single file
+// Top Module
+// Author:Praveen Saravanan
+// RISC-V processor 
 
 `timescale 1ns/1ps
 
