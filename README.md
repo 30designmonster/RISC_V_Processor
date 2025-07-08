@@ -22,7 +22,7 @@ A comprehensive, single-file implementation of a 32-bit RISC-V processor in Syst
 - **Educational focus** - Well-commented and documented
 - **Synthesis-ready** - Can be implemented on FPGA
 
-## 🏗️ Architecture
+##  Architecture
 
 ┌─────────────────────────────────────────────────────────────────┐
 │                    RISC-V Processor Architecture                │
