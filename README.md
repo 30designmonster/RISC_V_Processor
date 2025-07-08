@@ -125,7 +125,7 @@ A comprehensive, single-file implementation of a 32-bit RISC-V processor in Syst
 - **Operations**: Load/store with different sizes
 - **Features**: Little-endian, sign extension
 
-## 📚 Instruction Set
+##  Instruction Set
 
 ### Supported Instructions
 
