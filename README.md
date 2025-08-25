@@ -195,14 +195,6 @@ A comprehensive, single-file implementation of a 32-bit RISC-V processor in Syst
 - **Throughput**: 1 instruction per cycle (single-cycle design)
 
 
-### Pipeline Implementation
-
-To convert to pipelined:
-1. Add pipeline registers between stages
-2. Implement hazard detection
-3. Add forwarding logic
-4. Update control for pipeline stalls
-
 
 ##  References
 
